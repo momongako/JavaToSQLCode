@@ -1,0 +1,10 @@
+jdbcSQLServer\callable\StoredProcedureCallOuputParameters.class
+jdbcSQLServer\sampleDB\InsertData.class
+jdbcSQLServer\sampleDB\UpdateData.class
+jdbcSQLServer\sampleDB\SelectData.class
+jdbcSQLServer\callable\StoredProcedureCallSelect.class
+jdbcSQLServer\sampleDB\DeleteData.class
+jdbcSQLServer\sampleDB\ConnectToSQLServer.class
+jdbcSQLServer\transact\TransactDemo.class
+jdbcSQLServer\callable\StoredProcedureCallInsert.class
+jdbcSQLServer\sampleDB\ScrollResultSetDemo.class
